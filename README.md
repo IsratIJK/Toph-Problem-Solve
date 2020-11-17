@@ -1,4 +1,4 @@
-"# Toph-Problem-Solve" 
+ Toph Problem Solve
 
 ##
 You may check my profile of toph from here: https://toph.co/u/IsratIJK
