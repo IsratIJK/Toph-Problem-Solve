@@ -6,4 +6,4 @@ int main() {
 	printf("%d %d %d\n",a/b,a%b,b);
 	
 	return 0;
-}
+} 

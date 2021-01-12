@@ -5,4 +5,4 @@ int main(){
     e=a-(b+c+d);
     printf("%d\n",e);
     return 0;
-}
+} 
